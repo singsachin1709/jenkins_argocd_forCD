@@ -18,7 +18,7 @@ spec:
         app: lwwebflaskdeploy
     spec:
       containers:
-      - image: sachin62/lwwebflask:v13
+      - image: sachin62/lwwebflask:v14
         name: lwwebflask
         imagePullPolicy: Always
         resources: {}
